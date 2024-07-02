@@ -1,0 +1,411 @@
+{
+    "laptops": [
+        {
+            "id": 1,
+            "image": "https://m.media-amazon.com/images/I/815uX7wkOZS._AC_SX679_.jpg",
+            "description": "HP 14 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 14-inch Micro-edge HD Display, Windows 11 Home, Thin & Portable, 4K Graphics, One Year of Microsoft 365 (14-dq0040nr, Snowflake White)",
+            "price": "$209.99",
+            "brand": "hp"
+        },
+        {
+            "id": 2,
+            "image": "https://m.media-amazon.com/images/I/71gbrvRJI-L._AC_SX679_.jpg",
+            "description": "Dell Inspiron 15 3000 3520 Business Laptop Computer[Windows 11 Pro], 15.6'' FHD Touchscreen, 11th Gen Intel Quad-Core i5-1135G7, 16GB RAM, 1TB PCIe SSD, Numeric Keypad, Wi-Fi, Webcam, HDMI, Black",
+            "price": "$518.19",
+            "brand": "dell"
+        },
+        {
+            "id": 3,
+            "image": "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SX679_.jpg",
+            "description": "Lenovo IdeaPad 1 Laptop, 15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
+            "price": "$303.59",
+            "brand": "Lenovo"
+        },
+        {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/I/815uX7wkOZS._AC_SX679_.jpg",
+            "description": "HP 14 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 14-inch Micro-edge HD Display, Windows 11 Home, Thin & Portable, 4K Graphics, One Year of Microsoft 365 (14-dq0040nr, Snowflake White)",
+            "price": "$209.99",
+            "brand": "hp"
+        },
+        {
+            "id": 5,
+            "image": "https://m.media-amazon.com/images/I/81ux3SQKXrL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+            "description": "Acer Aspire 1 A115-32-C96U Slim Laptop | 15.6 FHD Display | Intel Celeron N4500 Processor | 4GB DDR4 | 128GB eMMC | WiFi 5 | Microsoft 365 Personal 1-Year Subscription | Windows 11 in S Mode, Silver",
+            "price": "$218.40",
+            "brand": "acer"
+        },
+        {
+            "id": 6,
+            "image": "https://m.media-amazon.com/images/I/61QzVOkMSKL._AC_SX679_.jpg",
+            "description": "ASUS TUF Gaming F15 (2022) Gaming Laptop, 15.6” FHD 144Hz Display, GeForce RTX 3050, Intel Core i5-12500H, 16GB DDR4, 512GB PCIe SSD, Wi-Fi 6, Windows 11, FX507ZC-ES53,Mecha Gray",
+            "price": "$643.99",
+            "brand": "asus"
+        },
+        {
+            "id": 7,
+            "image": "https://m.media-amazon.com/images/I/71bphKmt0DL._AC_SX679_.jpg",
+            "description": "Lenovo IdeaPad 1 14 Laptop, 14.0 HD Display, Intel Celeron N4020, 4GB RAM, 64GB Storage, Intel UHD Graphics 600, Win 11 in S Mode, Cloud Grey",
+            "price": "$151",
+            "brand": "Lenovo"
+        },
+        {
+            "id": 8,
+            "image": "https://m.media-amazon.com/images/I/81x8wuiiloS._AC_SX679_.jpg",
+            "description": "Dell Inspiron 15 3511 15.6 Inch Laptop, Full HD LED Non-Touch WVA Display - Intel Core i3-1115G4, 8GB DDR4 RAM, 256GB SSD, UHD Graphics, Windows 11 Home - Carbon Black",
+            "price": "$340",
+            "brand": "dell"
+        },
+        {
+            "id": 9,
+            "image": "https://m.media-amazon.com/images/I/719yYrijeKL._AC_SX679_.jpg",
+            "description": "Dell Inspiron 3511 Laptop, 15.6 Full HD Touchscreen, Intel Core i5-1135G7 (Beats Intel i7-1065G7), 32GB DDR4 RAM, 1TB PCIe SSD, SD Card Reader, HDMI, Wi-Fi, Windows 11 Home, Black",
+            "price": "$537",
+            "brand": "dell"
+        },
+        {
+            "id": 10,
+            "image": "https://m.media-amazon.com/images/I/71xAs9YBPML._AC_SX679_.jpg",
+            "description": "Microsoft Surface Laptop Go 3 (2023) - 12.4 Touchscreen, Thin & Lightweight, Intel Core i5, 8GB RAM, 256GB SSD SSD, with Windows 11, Sandstone Color Copilot",
+            "price": "$610",
+            "brand": "microsoft"
+        },
+        {
+            "id": 11,
+            "image": "https://m.media-amazon.com/images/I/61QGMX0Qy6L._AC_SX679_.jpg",
+            "description": "Lenovo 2022 Newest Ideapad 3 Laptop, 15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Almond",
+            "price": "$314",
+            "brand": "Lenovo"
+        },
+        {
+            "id": 12,
+            "image": "https://m.media-amazon.com/images/I/71KZD53jJtL._AC_SL1500_.jpg",
+            "description": "Dell Latitude 7430 2-in-1 Business Laptop (14 FHD Touchscreen, Intel 10-Core i7-1265U, 16GB RAM, 1TB SSD, Active Pen) Backlit, Fingerprint, 3-Yr WRT, Webcam, 2024 Latitude 7000, Win 11 Pro, Gray",
+            "price": "$949",
+            "brand": "dell"
+        },
+        {
+            "id": 13,
+            "image": "https://m.media-amazon.com/images/I/81b6IIclRfS._AC_SX679_.jpg",
+            "description": "HP Chromebook 14 Laptop, Intel Celeron N4000 Processor, 4 GB RAM, 32 GB eMMC, 14” HD Display, Chrome, Lightweight Computer with Webcam and Dual Mics, Home, School, Music, Movies (14a-na0021nr, 2021)",
+            "price": "$199",
+            "brand": "hp"
+        },
+        {
+            "id": 14,
+            "image": "https://m.media-amazon.com/images/I/815uX7wkOZS._AC_SX679_.jpg",
+            "description": "HP 14 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 14-inch Micro-edge HD Display, Windows 11 Home, Thin & Portable, 4K Graphics, One Year of Microsoft 365 (14-dq0040nr, Snowflake White)",
+            "price": "$209.99",
+            "brand": "hp"
+        },
+        {
+            "id": 15,
+            "image": "https://m.media-amazon.com/images/I/71Ki7Jjys9L._AC_SX679_.jpg",
+            "description": "MSI Raider GE76 Gaming Laptop: Intel Core i9-12900H, GeForce RTX 3060, 17.3 144Hz FHD Display,16GB DDR5, 1TB NVMe SSD, Thunderbolt 4, Cooler Boost 5, Win 11 Home: Titanium Blue 12UE-871",
+            "price": "$1.284.01",
+            "brand": "msi"
+        },
+        {
+            "id": 16,
+            "image": "https://m.media-amazon.com/images/I/51zpgM4sdsL._AC_SX679_.jpg",
+            "description": "Lenovo ThinkPad Yoga 500w 2-in-1 Laptop (11.6 Touchscreen, Intel Pentium N6000, 8GB RAM, 512GB SSD) Ruggedized & Water Resistant for Student & School, Webcam, Wi-Fi, IST Pen, Win 11 Home, Blue, 2024",
+            "price": "$329",
+            "brand": "Lenovo"
+        },
+        {
+            "id": 17,
+            "image": "https://m.media-amazon.com/images/I/61RJn0ofUsL._AC_SX679_.jpg",
+            "description": "Apple 2023 MacBook Pro Laptop M3 Pro chip with 11‑core CPU, 14‑core GPU: 14.2-inch Liquid Retina XDR Display, 18GB Unified Memory, 512GB SSD Storage. Works with iPhone/iPad; Space Black",
+            "price": "$1682",
+            "brand": "apple"
+        },
+        {
+            "id": 18,
+            "image": "https://m.media-amazon.com/images/I/61L1rA7v7FL._AC_SX679_.jpg",
+            "description": "SAMSUNG 15.6 Galaxy Book3 Business Laptop Computer/Windows 11 PRO/16GB - 512GB/ 13th Gen Intel® Core i5-1335U Processor, 2023 Model, NP754XFG-KB2US, Silver",
+            "price": "$503.07",
+            "brand": "samsung"
+        },
+        {
+            "id": 19,
+            "image": "https://m.media-amazon.com/images/I/71BIMPC7QDL._AC_SX679_.jpg",
+            "description": "Lenovo ThinkPad T14s Business Laptop (Intel Core i7-1185G7 vPro, 32GB RAM, 1TB SSD, 14 FHD Touchscreen, 4G LTE) 14-Hr Battery, Backlit, Fingerprint, FHD Webcam, 3-Yr WRT, Wi-Fi 6, Win 11 Pro, Black",
+            "price": "$1.399.09",
+            "brand": "Lenovo"
+        },
+        {
+            "id": 20,
+            "image": "https://m.media-amazon.com/images/I/61J0RJ-uF5L._AC_SX679_.jpg",
+            "description": "Lenovo ThinkPad P14s Mobile Workstation Laptop for Designer, Architecture, Engineering (14 FHD Touchscreen, Intel Core i7-1165G7, 32GB RAM, 1TB SSD, NVIDIA Quadro T500) 3-yr WRT, Win 11 Pro, Black",
+            "price": "$940",
+            "brand": "Lenovo"
+        },
+        {
+            "id": 21,
+            "image": "https://m.media-amazon.com/images/I/61xgnFpURwL._AC_SX679_.jpg",
+            "description": "ASUS ROG Strix G17 (2022) Gaming Laptop, 17.3” 144Hz IPS FHD Display, NVIDIA GeForce RTX 3050 GPU, AMD Ryzen 7 6800H Processor, 16GB DDR5 RAM, 512GB SSD, RGB Keyboard, Windows 11, G713RC-RS73",
+            "price": "$905.13",
+            "brand": "asus"
+        },
+        {
+            "id": 22,
+            "image": "https://m.media-amazon.com/images/I/41TdDIgkkIL._AC_.jpg",
+            "description": "Samsung Galaxy Chromebook 2 XE530QDA-KA1US 13.3 Touchscreen 2 in 1 Chromebook - Full HD - 1920 x 1080 - Intel Core i3 (10th Gen) i3-10110U 2.10 GHz - 8 GB RAM - Fiesta Red",
+            "price": "$370.70",
+            "brand": "samsung"
+        },
+        {
+            "id": 23,
+            "image": "https://m.media-amazon.com/images/I/71jcs5zlkzL._AC_SX679_.jpg",
+            "description": "HP 15 inch Laptop, FHD Display, Intel Core i3-1215U, 8 GB RAM, 128 GB SSD, Intel UHD Graphics, Windows 11 Home in S Mode, 15-dy5599nr (2023),Grey",
+            "price": "$309",
+            "brand": "hp"
+        },
+        {
+            "id": 24,
+            "image": "https://m.media-amazon.com/images/I/71Jv3cG3DDL._AC_SX679_.jpg",
+            "description": "Microsoft Surface Laptop 4 13.5/'' Touchscreen AMD Ryzen 5 8GB 128GB Windows 11 H, 13-13.99 inches",
+            "price": "$549",
+            "brand": "microsoft"
+        },
+        {
+            "id": 25,
+            "image": "https://m.media-amazon.com/images/I/61fQ3g11shL._AC_SX679_.jpg",
+            "description": "Lenovo IdeaPad 3 Laptop, 15.6” FHD Touchscreen Display, Intel Core i5-1135G7 Processor, 20GB RAM, 1TB SSD, Wi-Fi 6, SD Card Reader, HDMI, Webcam, Windows 11 Pro, Grey",
+            "price": "$560",
+            "brand": "Lenovo"
+        },
+        {
+            "id": 26,
+            "image": "https://m.media-amazon.com/images/I/71v0BQo8T8L._AC_SX679_.jpg",
+            "description": "ASUS ROG Strix G16 (2023) Gaming Laptop, 16” 16:10 FHD 165Hz, GeForce RTX 4070, Intel Core i9-13980HX, 16GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11, G614JI-AS94, Eclipse Gray",
+            "price": "$1.306.39",
+            "brand": "asus"
+        }
+    ],
+    "mobiles": [
+        {
+            "id": 1,
+            "image": "https://m.media-amazon.com/images/I/71wmNVsS9TL._AC_SX679_.jpg",
+            "description": "SAMSUNG Galaxy S23+ Series AI Phone, Unlocked Android Smartphone, 256GB Storage, 8GB RAM, 50MP Camera, Night Mode, Long Battery Life, Adaptive Display, US Version, 2023, Phantom Black",
+            "price": "$500",
+            "brand": "SAMSUNG"
+        },
+        {
+            "id": 2,
+            "image": "https://m.media-amazon.com/images/I/613cvL2ZYHL._AC_SX679_.jpg",
+            "description": "Motorola Moto G 5G | 2023 | Unlocked | Made for US 4/128GB | Bluetooth | 48 MPCamera | Harbor Gray, 163.94x74.98x8.39",
+            "price": "$230",
+            "brand": "Motorola"
+        },
+        {
+            "id": 3,
+            "image": "https://m.media-amazon.com/images/I/71-EnPs+uQL._AC_SX679_.jpg",
+            "description": "SAMSUNG Galaxy S24 Ultra Cell Phone, 256GB AI Smartphone, Unlocked Android, 50MP Zoom Camera, Long Battery Life, S Pen, US Version, 2024, Titanium Gray",
+            "price": "$700",
+            "brand": "SAMSUNG"
+        },
+        {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/I/51DCCG5rwAL._AC_SX679_.jpg",
+            "description": "Motorola Moto G31 Dual-SIM 128GB ROM + 4GB RAM (GSM Only | No CDMA) Factory Unlocked 4G/LTE Smartphone (Mineral Grey) - International Version",
+            "price": "$280",
+            "brand": "Motorola"
+        },
+        {
+            "id": 5,
+            "image": "https://m.media-amazon.com/images/I/61xk4XNRktL._AC_SX679_.jpg",
+            "description": "Moto G Play | 2024 | Unlocked | Made for US 4/64GB | 50MP Camera | Sapphire Blue",
+            "price": "$180",
+            "brand": "Moto"
+        },
+        {
+            "id": 6,
+            "image": "https://m.media-amazon.com/images/I/61RiO719umL._AC_SX679_.jpg",
+            "description": "Nokia 2780 Flip | Unlocked | Verizon, AT&T, T-Mobile | Blue",
+            "price": "$79.60",
+            "brand": "Nokia"
+        },
+        {
+            "id": 7,
+            "image": "https://m.media-amazon.com/images/I/716nsPtlrJL._AC_SX679_.jpg",
+            "description": "Nokia G100 | Verizon, T-Mobile, AT&T | Android 12 | Unlocked Smartphone | 3-Day Battery | US Version | 4/128GB | 6.52-Inch Screen | 13MP Triple Camera | Polar Night",
+            "price": "$91.99",
+            "brand": "Nokia"
+        },
+        {
+            "id": 8,
+            "image": "https://m.media-amazon.com/images/I/51nGxi-shlL._AC_SX679_.jpg",
+            "description": "Apple iPhone 13, 512GB, Midnight - GSM Carriers (Renewed)",
+            "price": "$1000",
+            "brand": "Apple"
+        },
+        {
+            "id": 9,
+            "image": "https://m.media-amazon.com/images/I/71uVYy3PbCL._AC_SX679_.jpg",
+            "description": "Apple iPhone 13 Mini, 128GB, Blue - AT&T (Renewed)",
+            "price": "$800",
+            "brand": "Apple"
+        },
+        {
+            "id": 10,
+            "image": "https://m.media-amazon.com/images/I/61sDyXAepuL._FMwebp__.jpg",
+            "description": "Apple iPhone 13 Pro (1TB, Gold) [Locked] + Carrier Subscription",
+            "price": "$1.091",
+            "brand": "Apple"
+        },
+        {
+            "id": 11,
+            "image": "https://m.media-amazon.com/images/I/71m09hEhnwL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+            "description": "Google Pixel 7a - Unlocked Android Cell Phone - Smartphone with Wide Angle Lens and 24-Hour Battery - 128 GB - Sea",
+            "price": "$499",
+            "brand": "Google"
+        },
+        {
+            "id": 12,
+            "image": "https://m.media-amazon.com/images/I/619+CbF3adL._AC_SX679_.jpg",
+            "description": "Xiaomi Redmi Note 13 PRO+ Plus 5G + 4G LTE (256GB + 8GB) 6.67 200MP Triple (Tmobile Mint Tello & Global) Global Bands Unlocked + (Fast Car 51W Dual Charger Bundle) (Midnight Black Global ROM)",
+            "price": "$356.75",
+            "brand": "Xiaomi"
+        }
+    ],
+    "cameras": [
+        {
+            "id": 1,
+            "image": "https://m.media-amazon.com/images/I/61JavBEclHL._AC_UY327_FMwebp_QL65_.jpg",
+            "description": "Digital Camera, FHD 1080P Camera, Digital Point and Shoot Camera with 16X Zoom Anti Shake, Compact Small Camera for Boys Girls Kids",
+            "price": "$49.05",
+            "brand": "Digital Camera"
+        },
+        {
+            "id": 2,
+            "image": "https://m.media-amazon.com/images/I/71ZYxtmYkPL._AC_UY327_FMwebp_QL65_.jpg",
+            "description": "Canon EOS Rebel T7 DSLR Camera|2 Lens Kit with EF18-55mm + EF 75-300mm Lens, Black",
+            "price": "$500",
+            "brand": "Canon"
+        },
+        {
+            "id": 3,
+            "image": "https://m.media-amazon.com/images/I/71suGwfhN1L._AC_UY327_FMwebp_QL65_.jpg",
+            "description": "KODAK PIXPRO AZ405-BK 20MP Digital Camera 40X Optical Zoom 24mm Wide Angle Lens Optical Image Stabilization 1080P Full HD Video 3 LCD Vlogging Camera (Black)",
+            "price": "$179",
+            "brand": "KODAK"
+        },
+        {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/I/611ne54dgQL._AC_SX679_.jpg",
+            "description": "KODAK PIXPRO AZ425-RD 20MP Digital Camera 42X Optical Zoom 24mm Wide Angle 1080P Full HD Video Optical Image Stabilization Li-Ion Battery 3 LCD Vlogging Camera (Red)",
+            "price": "$186",
+            "brand": "KODAK"
+        },
+        {
+            "id": 5,
+            "image": "https://m.media-amazon.com/images/I/81lRtfnLuiL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+            "description": "Sony ZV-1F Vlog Camera for Content Creators and Vloggers Black",
+            "price": "$398",
+            "brand": "Sony"
+        },
+        {
+            "id": 6,
+            "image": "https://m.media-amazon.com/images/I/71iKNJ6rVIL._AC_UY327_FMwebp_QL65_.jpg",
+            "description": "Nikon D7500 20.9MP DSLR Camera with AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR Lens, Black",
+            "price": "$934",
+            "brand": "Nikon"
+        },
+        {
+            "id": 7,
+            "image": "https://m.media-amazon.com/images/I/61gJcez9unL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+            "description": "TP-Link Tapo 1080P Indoor Security Camera for Baby Monitor, Dog Camera w/Motion Detection, 2-Way Audio Siren, Night Vision, Cloud & SD Card Storage, Works w/Alexa & Google Home (Tapo C100)",
+            "price": "$14.22",
+            "brand": "TP-Link"
+        },
+        {
+            "id": 8,
+            "image": "https://m.media-amazon.com/images/I/71ZYxtmYkPL._AC_UY327_FMwebp_QL65_.jpg",
+            "description": "Fujifilm Instax Mini 12 Instant Film Camera - Pastel Blue",
+            "price": "$68.31",
+            "brand": "Instax"
+        }
+    ],
+    "tablets": [
+        {
+            "id": 1,
+            "image": "https://m.media-amazon.com/images/I/5160oIUsG8L._AC_SX569_.jpg",
+            "description": "Amazon Fire HD 10 tablet, built for relaxation, 10.1 vibrant Full HD screen, octa-core processor, 3 GB RAM, latest model (2023 release), 32 GB, Black",
+            "price": "$100",
+            "brand": "Amazon"
+        },
+        {
+            "id": 2,
+            "image": "https://m.media-amazon.com/images/I/71ODn8aPLbL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+            "description": "2024 Newest Tablet Android 13 Tablets 10 Inch, Tablet 128GB ROM+16GB RAM (8+8 Virtual), 2 In 1 Tablet with keyboard, Powerful Octa-Core+13MP Camera, 1TB TF Expandable, FHD IPS Display WiFi Tablet PC",
+            "price": "$143.53",
+            "brand": "Android"
+        },
+        {
+            "id": 3,
+            "image": "https://m.media-amazon.com/images/I/611OVC7ZSlL._AC_SX679_.jpg",
+            "description": "Lenovo Tab M10 Plus 3rd Gen Tablet - 10 FHD - Android 12-32GB Storage - Long Battery Life, Gray",
+            "price": "$121.29",
+            "brand": "Lenovo"
+        },
+        {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/I/615Crlk84LL._AC_SX679_.jpg",
+            "description": "Apple iPad (10.2-Inch, Wi-Fi, 32GB) - Space Gray (Renewed)",
+            "price": "$450",
+            "brand": "Apple"
+        },
+        {
+            "id": 5,
+            "image": "https://m.media-amazon.com/images/I/41GcCeBaq5L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+            "description": "Samsung Galaxy Tab S9 FE+ Plus 12.4” 128GB Android Tablet, Long Battery Life, Powerful Processor, S Pen, 8MP Camera, Lightweight Durable Design, Expandable Storage, US Version, 2023, Gray",
+            "price": "$450.79",
+            "brand": "Samsung"
+        },
+        {
+            "id": 6,
+            "image": "https://m.media-amazon.com/images/I/615Crlk84LL._AC_SX679_.jpg",
+            "description": "Android 13 Tablet, 10 inch Tablet for Kids with Case, 4GB RAM 64GB ROM 512GB Expand, Quad-Core Processor, 1280x800 IPS Touch Screen, GPS, WiFi, Dual Camera, Bluetooth, 6000mAh (Purple)",
+            "price": "$46.57",
+            "brand": "Android"
+        },
+        {
+            "id": 7,
+            "image": "https://m.media-amazon.com/images/I/61PnHlc0HCL._AC_SX679_.jpg",
+            "description": "Apple iPad (9th Generation): with A13 Bionic chip, 10.2-inch Retina Display, 64GB, Wi-Fi, 12MP front/8MP Back Camera, Touch ID, All-Day Battery Life – Silver",
+            "price": "$234.49",
+            "brand": "Apple"
+        }
+    ],
+    "consoles": [
+        {
+            "id": 1,
+            "image": "https://m.media-amazon.com/images/I/51fM0CKG+HL._SX522_.jpg",
+            "description": "PlayStation®5 Digital Edition (slim)",
+            "price": "$449.09",
+            "brand": "CFI-2000"
+        },
+        {
+            "id": 2,
+            "image": "https://m.media-amazon.com/images/I/61hwaBMvOxL._SX522_.jpg",
+            "description": "Xbox Series S 1TB SSD All-Digital Gaming Console 1440p Gaming 4K Streaming Carbon Black [video game]",
+            "price": "$349",
+            "brand": "Xbox"
+        },
+        {
+            "id": 3,
+            "image": "https://m.media-amazon.com/images/I/71ej6WAJz5L._SX522_.jpg",
+            "description": "Bearway Super Console x2 Retro Game Console with 60,000+Classic Games for TV, Video Game Console with 60+Emulators,Plug& Play Gaming System EmuELEC4.6&Android TV 9.0, 2 Wireless Controllers(256G)",
+            "price": "$118.99",
+            "brand": "Bearway"
+        },
+        {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/I/719hUyzE8gL._SX522_.jpg",
+            "description": "Sony PS2 Game System Gaming Console with 2 WIRELESS CONTROLLERS PLAYSTATION-2 Black (Renewed)",
+            "price": "$201.98",
+            "brand": "Sony"
+        }
+    ]
+}
