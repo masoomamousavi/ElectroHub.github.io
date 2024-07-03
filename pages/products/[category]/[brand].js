@@ -23,15 +23,17 @@ function Brand() {
 
     return (
         <div className="container mx-auto my-5">
-            <h1 className="font-semibold text-2xl mt-10 mb-5 font-sans">{brand && `(${brand.toUpperCase()}) Laptops`}</h1>
-            <div className="grid gap-5 mb-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
-                {
-                    laptops.map((laptop) => (
-                        <div key={laptop.id}>
-                            <ProductCard {...laptop} />
-                        </div>
-                    ))
-                }
+            <div className="mx-3 md:mx-0">
+                <h1 className="font-semibold text-2xl mt-10 mb-5 font-sans">{brand && `(${brand.toUpperCase()}) Laptops`}</h1>
+                <div className="grid gap-5 mb-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
+                    {
+                        laptops.map((laptop) => (
+                            <div key={laptop.id}>
+                                <ProductCard {...laptop} />
+                            </div>
+                        ))
+                    }
+                </div>
             </div>
         </div>
     )
