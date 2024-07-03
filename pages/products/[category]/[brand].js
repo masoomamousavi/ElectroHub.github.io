@@ -24,7 +24,7 @@ function Brand() {
     return (
         <div className="container mx-auto my-5">
             <div className="mx-3 md:mx-0">
-                <h1 className="font-semibold text-2xl mt-10 mb-5 font-sans">{brand && `(${brand.toUpperCase()}) Laptops`}</h1>
+                <h1 className="font-semibold text-2xl mt-10 mb-5 text-slate-800 font-sans">{brand && `(${brand.toUpperCase()}) Laptops`}</h1>
                 <div className="grid gap-5 mb-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
                     {
                         laptops.map((laptop) => (

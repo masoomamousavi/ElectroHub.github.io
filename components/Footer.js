@@ -41,11 +41,11 @@ function Footer() {
                 <div className="space-y-2 mb-8 lg:mb-0">
                     <h3 className="text-lg font-sans font-bold text-slate-800">Contact with Us</h3>
                     <ul className="flex space-x-3">
-                        <li className="my-1"><a href="https://www.linkedin.com/in/masooma-mousavi" target="_blank"><FaLinkedin size='20px' /></a></li>
-                        <li className="my-1"><a href="/" target="_blank"><FaFacebook size='20px' /></a></li>
-                        <li className="my-1"><a href="/" target="_blank"><FaTelegram size='20px' /></a></li>
-                        <li className="my-1"><a href="/" target="_blank"><FaXTwitter size='20px' /></a></li>
-                        <li className="my-1"><a href="/" target="_blank"><FaInstagram size='20px' /></a></li>
+                        <li className="my-1 text-slate-800"><a href="https://www.linkedin.com/in/masooma-mousavi" target="_blank"><FaLinkedin size='20px' /></a></li>
+                        <li className="my-1 text-slate-800"><a href="/" target="_blank"><FaFacebook size='20px' /></a></li>
+                        <li className="my-1 text-slate-800"><a href="/" target="_blank"><FaTelegram size='20px' /></a></li>
+                        <li className="my-1 text-slate-800"><a href="/" target="_blank"><FaXTwitter size='20px' /></a></li>
+                        <li className="my-1 text-slate-800"><a href="/" target="_blank"><FaInstagram size='20px' /></a></li>
                     </ul>
                 </div>
             </div>
