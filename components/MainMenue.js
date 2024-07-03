@@ -13,7 +13,7 @@ function MainMenue() {
     const handleMouseLeave = () => {
         setTimeout(() => {
             setShowSubMenu(false);
-        }, 3000);
+        }, 1000);
     };
 
     return (

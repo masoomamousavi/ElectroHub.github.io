@@ -24,7 +24,7 @@ function About() {
                 {/* header part */}
                 <div className='flex justify-center md:justify-between flex-col w-full my-7 lg:flex-row items-center'>
                     <div className='md:flex md:items-center block text-center px-5'>
-                        <h1 className="text-xl md:text-2xl font-bold w-96 tracking-wide leading-relaxed">
+                        <h1 className="text-lg md:text-2xl font-bold md:w-96 w-auto tracking-wide leading-relaxed">
                             <span className='md:text-3xl text-sky-700 text-xl'>ElectroHub</span>-Your Tech Destination
                         </h1>
                     </div>
