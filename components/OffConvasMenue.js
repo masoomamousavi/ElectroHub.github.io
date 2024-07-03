@@ -16,33 +16,33 @@ function OffConvas() {
         }>
             <div className="flex justify-between items-center  pt-5 pb-2">
                 <h1 className="text-md text-center font-bold text-slate-700">ElectroHub</h1>
-                <MdClose size='20px' className="cursor-pointer"
+                <MdClose size='20px' className="cursor-pointer text-gray-800"
                     onClick={() => setMenuStatus('close')} />
             </div>
 
             <ul className="py-3 sm:py-0">
                 <li className="text-sm md:text-base py-2">
                     <div className="flex justify-between items-center">
-                        <Link href='/products/laptops'>Laptop</Link>
-                        <RiArrowDownSLine size='16px' className="mt-1 cursor-pointer" onClick={toggleSubMenu} />
+                        <Link href='/products/laptops' className="text-gray-800">Laptop</Link>
+                        <RiArrowDownSLine size='16px' className="mt-1 cursor-pointer text-gray-800" onClick={toggleSubMenu} />
                     </div>
                     {subMenuOpen && <MobileSubMenu />}
                 </li>
                 <li className="flex justify-between items-center text-sm md:text-base py-2">
                     <Link href='/products/mobiles' className="text-gray-800">Mobiles</Link>
-                    <RiArrowDownSLine size='16px' className="mt-1" />
+                    <RiArrowDownSLine size='16px' className="mt-1 text-gray-800" />
                 </li>
                 <li className="flex justify-between items-center text-sm md:text-base  py-2">
                     <Link href='/products/tablets' className="text-gray-800">Tablets</Link>
-                    <RiArrowDownSLine size='16px' className="mt-1" />
+                    <RiArrowDownSLine size='16px' className="mt-1 text-gray-800" />
                 </li>
                 <li className="flex justify-between items-center text-sm md:text-base  py-2">
                     <Link href='/products/cameras' className="text-gray-800">Cameras</Link>
-                    <RiArrowDownSLine size='16px' className="mt-1" />
+                    <RiArrowDownSLine size='16px' className="mt-1 text-gray-800" />
                 </li>
                 <li className="flex justify-between items-center text-sm md:text-base  py-2">
                     <Link href='/products/consoles' className="text-gray-800">Game Consoles</Link>
-                    <RiArrowDownSLine size='16px' className="mt-1" />
+                    <RiArrowDownSLine size='16px' className="mt-1 text-gray-800" />
                 </li>
             </ul>
         </aside >

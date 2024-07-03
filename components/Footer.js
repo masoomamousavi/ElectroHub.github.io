@@ -9,7 +9,7 @@ function Footer() {
         <section className="border border-t-2 border-slate-300 py-5 sm:px-10 md:px-20 px-20">
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 justify-around">
                 <div className="mb-8 lg:mb-0">
-                    <h3 className="text-lg font-sans font-bold">ElectroHub</h3>
+                    <h3 className="text-lg font-sans font-bold text-slate-800">ElectroHub</h3>
                     <ul>
                         <li className="my-1"><a href="/" className="text-slate-500 text-sm" target="_blank">License and Certificates</a></li>
                         <li className="my-1"><a href="/" className="text-slate-500 text-sm" target="_blank">Rules and Policies</a></li>
@@ -19,7 +19,7 @@ function Footer() {
                     </ul>
                 </div>
                 <div className="mb-8 lg:mb-0">
-                    <h3 className="text-lg font-sans font-bold">Guidance</h3>
+                    <h3 className="text-lg font-sans font-bold text-slate-800">Guidance</h3>
                     <ul>
                         <li className="my-1"><a href="/" className="text-slate-500 text-sm" target="_blank">Guarantee of product authenticity</a></li>
                         <li className="my-1"><a href="/" className="text-slate-500 text-sm" target="_blank">Conditions for returning goods</a></li>
@@ -29,7 +29,7 @@ function Footer() {
                     </ul>
                 </div>
                 <div className="mb-8 lg:mb-0">
-                    <h3 className="text-lg font-sans font-bold">Services</h3>
+                    <h3 className="text-lg font-sans font-bold text-slate-800">Services</h3>
                     <ul>
                         <li className="my-1"><a href="/" className="text-slate-500 text-sm" target="_blank">Free consult</a></li>
                         <li className="my-1"><a href="/" className="text-slate-500 text-sm" target="_blank">Support</a></li>
@@ -39,7 +39,7 @@ function Footer() {
                     </ul>
                 </div>
                 <div className="space-y-2 mb-8 lg:mb-0">
-                    <h3 className="text-lg font-sans font-bold">Contact with Us</h3>
+                    <h3 className="text-lg font-sans font-bold text-slate-800">Contact with Us</h3>
                     <ul className="flex space-x-3">
                         <li className="my-1"><a href="https://www.linkedin.com/in/masooma-mousavi" target="_blank"><FaLinkedin size='20px' /></a></li>
                         <li className="my-1"><a href="/" target="_blank"><FaFacebook size='20px' /></a></li>

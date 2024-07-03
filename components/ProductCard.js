@@ -10,7 +10,7 @@ function ProductCard({ image, description, price }) {
             </div>
             <div className="border-t border-slate-300 flex justify-between items-center py-4 px-5">
                 <button className="bg-sky-600 hover:bg-sky-700 text-white rounded-md p-2 text-sm cursor-pointer">Add to Card</button>
-                <p className="">{price}</p>
+                <p className="text-slate-800">{price}</p>
             </div>
         </div>
 

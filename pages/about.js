@@ -24,7 +24,7 @@ function About() {
                 {/* header part */}
                 <div className='flex justify-center md:justify-between flex-col w-full my-7 lg:flex-row items-center'>
                     <div className='md:flex md:items-center block text-center px-5'>
-                        <h1 className="text-lg md:text-2xl font-bold md:w-96 w-auto tracking-wide leading-relaxed">
+                        <h1 className="text-lg md:text-2xl font-bold text-slate-700 md:w-96 w-auto tracking-wide leading-relaxed">
                             <span className='md:text-3xl text-sky-700 text-xl'>ElectroHub</span>-Your Tech Destination
                         </h1>
                     </div>
@@ -35,7 +35,7 @@ function About() {
                 </div>
                 {/* about us */}
                 <div className='my-32 px-5 sm:px-0'>
-                    <h1 className="text-center text-2xl my-5 font-semibold">
+                    <h1 className="text-center text-slate-800 text-2xl my-5 font-semibold">
                         About Us
                     </h1>
                     <p className='text-zinc-500 text-center'>
@@ -46,7 +46,7 @@ function About() {
                 <div>
                     <div className="flex items-center gap-2 px-2 justify-center md:justify-start mb-5 md:mb-0">
                         <RxBorderDashed className='-mt-5 hidden md:block' />
-                        <h1 className=" text-2xl font-semibold mb-6 ">
+                        <h1 className=" text-2xl text-slate-800 font-semibold mb-6 ">
                             Our Products
                         </h1>
                     </div>
@@ -83,7 +83,7 @@ function About() {
             <div className="bg-slate-300 my-20 py-14 px-5 md:px-28">
                 <div className="flex items-center gap-2 px-2 justify-center md:justify-start mb-5 md:mb-0">
                     <RxBorderDashed className='-mt-5 hidden md:block' />
-                    <h1 className="text-2xl font-semibold mb-6">
+                    <h1 className="text-2xl text-slate-800 font-semibold mb-6">
                         Why Choose Us
                     </h1>
                 </div>
@@ -92,7 +92,7 @@ function About() {
                         <div className="text-center space-y-3 my-5">
                             <div className="flex gap-1 justify-center items-center">
                                 <MdOutlineHighQuality size='50px' />
-                                <h3 className='text-xl font-semibold'>Quality Assurance</h3>
+                                <h3 className='text-xl font-semibold text-black'>Quality Assurance</h3>
                             </div>
                             <p className='text-slate-700 md:px-20 px-5'>
                                 We only stock products from reputable brands known for their quality and reliability. Every device undergoes thorough testing to ensure it meets our high standards.
@@ -103,7 +103,7 @@ function About() {
                         <div className="text-center space-y-3 my-5">
                             <div className="flex justify-center items-center">
                                 <MdAttachMoney size='30px' />
-                                <h3 className='text-xl font-semibold'>Competitive Prices</h3>
+                                <h3 className='text-xl font-semibold text-black'>Competitive Prices</h3>
                             </div>
                             <p className='text-slate-700 md:px-20 px-5'>
                                 We strive to offer the best prices on the market, making advanced technology accessible to everyone.
@@ -114,7 +114,7 @@ function About() {
                         <div className="text-center space-y-3 my-5">
                             <div className="flex gap-1 justify-center items-center">
                                 <MdSupportAgent size='40px' />
-                                <h3 className='text-xl font-semibold'>Customer Support</h3>
+                                <h3 className='text-xl font-semibold text-black'>Customer Support</h3>
                             </div>
                             <p className='text-slate-700 md:px-20 px-5'>
                                 Our dedicated customer service team is here to help you with any questions or concerns. We are committed to providing prompt and helpful assistance.
@@ -125,7 +125,7 @@ function About() {
                         <div className="text-center space-y-3 my-5">
                             <div className="flex gap-1 justify-center items-center">
                                 <FaShippingFast size='40px' />
-                                <h3 className='text-lg sm:text-xl font-semibold'>Fast & Secure Shipping</h3>
+                                <h3 className='text-lg sm:text-xl font-semibold text-black'>Fast & Secure Shipping</h3>
                             </div>
                             <p className='text-slate-700 md:px-20 px-5'>
                                 We understand the excitement of receiving a new gadget, so we ensure your orders are processed quickly and shipped securely to your doorstep.
@@ -133,8 +133,8 @@ function About() {
                         </div>
                     </div>
                     <div className="absolute left-0 right-0 top-1/2 flex -translate-y-1/2 transform justify-between">
-                        <button onClick={prevSlide} className="md:btn md:btn-circle">❮</button>
-                        <button onClick={nextSlide} className="md:btn md:btn-circle">❯</button>
+                        <button onClick={prevSlide} className="md:btn md:btn-circle text-slate-600">❮</button>
+                        <button onClick={nextSlide} className="md:btn md:btn-circle text-slate-600">❯</button>
                     </div>
                 </div>
             </div>

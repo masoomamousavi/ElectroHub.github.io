@@ -61,7 +61,7 @@ function Category() {
                 />
             </div>
             <div className="my-6 px-2">
-                <h1 className="font-sans font-semibold text-2xl my-4">Products ({category})</h1>
+                <h1 className="font-sans font-semibold text-2xl my-4 text-slate-800">Products ({category})</h1>
                 <div className="grid gap-5 mb-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
                     {paginatedProducts.map((product) => (
                         <div key={product.id}>

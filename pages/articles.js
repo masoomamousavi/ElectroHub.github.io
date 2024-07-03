@@ -3,7 +3,7 @@ import Link from "next/link";
 function Articles() {
     return (
         <section className="container mx-auto bg-slate-100 px-3 sm:px-0">
-            <h1 className="mt-10 font-semibold text-center md:text-left text-base md:text-2xl font-sans">Here, Learn more about Digital Sales!</h1>
+            <h1 className="mt-10 font-semibold text-center md:text-left text-base md:text-2xl font-sans text-slate-800">Here, Learn more about Digital Sales!</h1>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3 gap-y-5 lg:grid-cols-3 mb-16 mt-7">
                 {/* First Article */}
                 <Link href="https://easydigitaldownloads.com/blog/top-10-benefits-selling-digital-products/">
