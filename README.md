@@ -7,4 +7,4 @@ This project qualified by:
 ✅ Nested and Dynamic Routes 
 ✅ Responsive & Dark Mode Compatible Design
 
-Live demo: https://lnkd.in/eTt7Bkqh
+Live demo: https://electrohub.vercel.app/
